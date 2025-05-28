@@ -1,0 +1,22 @@
+.cat {
+  width: 500;
+  height: 500;
+  border: solid 2px;
+  border-radius: 250px;
+}
+
+.cat2 {
+  border: solid aquamarine 2px;
+  background-color: aquamarine;
+  font-size: 30px;
+}
+
+.cat3 {
+  width: 400;
+  height: 400;
+  border-radius: 200px;
+}
+
+.h-menu {
+  font-size: 50px;
+}
